@@ -1,0 +1,32 @@
+D:\lab1\lab1\bin\Debug\net8.0-windows\lab1.exe
+D:\lab1\lab1\bin\Debug\net8.0-windows\lab1.deps.json
+D:\lab1\lab1\bin\Debug\net8.0-windows\lab1.runtimeconfig.json
+D:\lab1\lab1\bin\Debug\net8.0-windows\lab1.dll
+D:\lab1\lab1\bin\Debug\net8.0-windows\lab1.pdb
+D:\lab1\lab1\obj\Debug\net8.0-windows\lab1.MainForm.resources
+D:\lab1\lab1\obj\Debug\net8.0-windows\lab1.csproj.GenerateResource.cache
+D:\lab1\lab1\obj\Debug\net8.0-windows\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab1\lab1\obj\Debug\net8.0-windows\lab1.AssemblyInfoInputs.cache
+D:\lab1\lab1\obj\Debug\net8.0-windows\lab1.AssemblyInfo.cs
+D:\lab1\lab1\obj\Debug\net8.0-windows\lab1.csproj.CoreCompileInputs.cache
+D:\lab1\lab1\obj\Debug\net8.0-windows\lab1.dll
+D:\lab1\lab1\obj\Debug\net8.0-windows\refint\lab1.dll
+D:\lab1\lab1\obj\Debug\net8.0-windows\lab1.pdb
+D:\lab1\lab1\obj\Debug\net8.0-windows\lab1.genruntimeconfig.cache
+D:\lab1\lab1\obj\Debug\net8.0-windows\ref\lab1.dll
+D:\Разработка приложений Коваленко\lab1\lab1\bin\Debug\net8.0-windows\lab1.exe
+D:\Разработка приложений Коваленко\lab1\lab1\bin\Debug\net8.0-windows\lab1.deps.json
+D:\Разработка приложений Коваленко\lab1\lab1\bin\Debug\net8.0-windows\lab1.runtimeconfig.json
+D:\Разработка приложений Коваленко\lab1\lab1\bin\Debug\net8.0-windows\lab1.dll
+D:\Разработка приложений Коваленко\lab1\lab1\bin\Debug\net8.0-windows\lab1.pdb
+D:\Разработка приложений Коваленко\lab1\lab1\obj\Debug\net8.0-windows\lab1.MainForm.resources
+D:\Разработка приложений Коваленко\lab1\lab1\obj\Debug\net8.0-windows\lab1.csproj.GenerateResource.cache
+D:\Разработка приложений Коваленко\lab1\lab1\obj\Debug\net8.0-windows\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработка приложений Коваленко\lab1\lab1\obj\Debug\net8.0-windows\lab1.AssemblyInfoInputs.cache
+D:\Разработка приложений Коваленко\lab1\lab1\obj\Debug\net8.0-windows\lab1.AssemblyInfo.cs
+D:\Разработка приложений Коваленко\lab1\lab1\obj\Debug\net8.0-windows\lab1.csproj.CoreCompileInputs.cache
+D:\Разработка приложений Коваленко\lab1\lab1\obj\Debug\net8.0-windows\lab1.dll
+D:\Разработка приложений Коваленко\lab1\lab1\obj\Debug\net8.0-windows\refint\lab1.dll
+D:\Разработка приложений Коваленко\lab1\lab1\obj\Debug\net8.0-windows\lab1.pdb
+D:\Разработка приложений Коваленко\lab1\lab1\obj\Debug\net8.0-windows\lab1.genruntimeconfig.cache
+D:\Разработка приложений Коваленко\lab1\lab1\obj\Debug\net8.0-windows\ref\lab1.dll
