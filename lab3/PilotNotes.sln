@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PilotNotes.Core", "PilotNotes.Core\PilotNotes.Core.csproj", "{09F098D0-7467-4CF1-A9FF-6C601D816ACE}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesWinForms", "NotesWinForms\NotesWinForms.csproj", "{21E2C9B3-095E-4899-864F-303D952FFB47}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesMaui", "NotesMaui\NotesMaui.csproj", "{5F8DF93E-C1DD-411B-BA45-D1BCC7AD8505}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesAvalonia", "NotesAvalonia\NotesAvalonia.csproj", "{4E631587-BE18-4C50-80DC-87023B95BE6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PilotNotes.Core", "PilotNotes.Core\PilotNotes.Core.csproj", "{09F098D0-7467-4CF1-A9FF-6C601D816ACE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checks", "Checks\Checks.csproj", "{1C44BA6A-9FF4-46BF-8F44-4D172273B0A1}"
 EndProject
