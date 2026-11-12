@@ -2,7 +2,7 @@ using Microsoft.UI.Xaml;
 
 namespace NotesMaui.WinUI
 {
-    public partial class App : MauiWinApplication
+    public partial class App : MauiWinUIApplication
     {
         public App()
         {
