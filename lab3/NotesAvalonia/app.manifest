@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1">
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <supportedOS Id="{e2011457-1544-43c2-a1ba-2d11917640e}" />
+      <supportedOS Id="{35138b9a-0d8e-4c26-828b-a408bcb614}" />
+      <supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />
+      <supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />
+      <supportedOS Id="{4a2f07ae-7459-4484-a03c-6b91135679}" />
+    </application>
+  </compatibility>
+</assembly>
